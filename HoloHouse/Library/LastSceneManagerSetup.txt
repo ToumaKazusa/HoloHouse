@@ -1,4 +1,0 @@
-sceneSetups:
-- path: G:/Origami/Assets/Origami.unity
-  isLoaded: 1
-  isActive: 1
