@@ -11,7 +11,7 @@ public class GazeGestureManager : MonoBehaviour
     GestureRecognizer recognizer;
 
     // Use this for initialization
-    void Awake()
+    void Start()
     {
         Instance = this;
 
